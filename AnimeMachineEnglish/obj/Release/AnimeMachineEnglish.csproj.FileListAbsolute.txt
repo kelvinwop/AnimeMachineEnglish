@@ -1,0 +1,11 @@
+c:\users\hal\documents\visual studio 2015\Projects\AnimeMachineEnglish\AnimeMachineEnglish\bin\Release\AnimeMachineEnglish.exe.config
+c:\users\hal\documents\visual studio 2015\Projects\AnimeMachineEnglish\AnimeMachineEnglish\bin\Release\AnimeMachineEnglish.exe
+c:\users\hal\documents\visual studio 2015\Projects\AnimeMachineEnglish\AnimeMachineEnglish\bin\Release\AnimeMachineEnglish.pdb
+c:\users\hal\documents\visual studio 2015\Projects\AnimeMachineEnglish\AnimeMachineEnglish\bin\Release\ImageProcessor.dll
+c:\users\hal\documents\visual studio 2015\Projects\AnimeMachineEnglish\AnimeMachineEnglish\bin\Release\ImageProcessor.xml
+c:\users\hal\documents\visual studio 2015\Projects\AnimeMachineEnglish\AnimeMachineEnglish\obj\Release\AnimeMachineEnglish.csprojResolveAssemblyReference.cache
+c:\users\hal\documents\visual studio 2015\Projects\AnimeMachineEnglish\AnimeMachineEnglish\obj\Release\AnimeMachineEnglish.Form1.resources
+c:\users\hal\documents\visual studio 2015\Projects\AnimeMachineEnglish\AnimeMachineEnglish\obj\Release\AnimeMachineEnglish.Properties.Resources.resources
+c:\users\hal\documents\visual studio 2015\Projects\AnimeMachineEnglish\AnimeMachineEnglish\obj\Release\AnimeMachineEnglish.csproj.GenerateResource.Cache
+c:\users\hal\documents\visual studio 2015\Projects\AnimeMachineEnglish\AnimeMachineEnglish\obj\Release\AnimeMachineEnglish.exe
+c:\users\hal\documents\visual studio 2015\Projects\AnimeMachineEnglish\AnimeMachineEnglish\obj\Release\AnimeMachineEnglish.pdb
