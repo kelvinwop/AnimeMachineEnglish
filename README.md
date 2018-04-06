@@ -5,4 +5,4 @@ If I get to making a python version of this, it could be pretty cool... though I
 
 I should probably mention that if you are going to build a release version, you'll have to copy the data folder over as well. You can grab the one from the debug folder or from the project directory. I'm genuinely surprised that visual studio can't do that automatically... I had to add a stupid xcopy command in the post-build section.
 
-ps. I'm trying to upload it rn... github can't get >100 files at a time because chrome
+Turns out there's actually an algorithm for adding colors... two, actually.
